@@ -1,0 +1,9 @@
+1. cd
+2. mkdir
+3. mv oldname newname
+4. ls
+5. mv somefile.txt somefolder
+6. cp somefile.txt somefolder
+7. grep -Ri 'some string' /somefolder
+8. ssh
+9. rm
