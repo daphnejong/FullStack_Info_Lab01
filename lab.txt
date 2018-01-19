@@ -6,4 +6,4 @@
 6. cp somefile.txt somefolder
 7. grep -Ri 'some string' /somefolder
 8. ssh
-9. rm
+9. rm -r
